@@ -75,6 +75,11 @@ body{
     
 }
 
+#clear_icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /*main*/
 main{
     display: flex;
